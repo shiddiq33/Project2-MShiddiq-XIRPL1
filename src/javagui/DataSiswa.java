@@ -19,7 +19,7 @@ import javax.swing.table.DefaultTableModel;
 public class DataSiswa extends javax.swing.JFrame {
 
     /**
-     * Creates new form DataSiswa
+     * Creates new form DataSiswa.
      */
     Connection koneksi;
     
