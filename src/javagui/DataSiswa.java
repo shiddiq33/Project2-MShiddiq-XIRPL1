@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**0
  *
- * @author khoir
+ * @author MShiddiq
  */
 public class DataSiswa extends javax.swing.JFrame {
 
