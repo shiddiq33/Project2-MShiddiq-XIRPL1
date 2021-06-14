@@ -7,7 +7,7 @@ package javagui;
 
 /**
  *
- * @author khoir
+ * @author MShiddiq
  */
 public class JavaGUI {
 
